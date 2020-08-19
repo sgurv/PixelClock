@@ -1,0 +1,9 @@
+ds3231.c:16:9:dec2bcd	16	static
+ds3231.c:22:9:bcd2dec	16	static
+ds3231.c:27:9:DS3231_Init	32	static
+ds3231.c:82:9:DS3231_GetTime	32	static
+ds3231.c:112:9:DS3231_SetTime	32	static
+ds3231.c:136:9:DS3231_GetDate	32	static
+ds3231.c:164:9:DS3231_SetDate	24	static
+ds3231.c:170:9:DS3231_GetDateTime	32	static
+ds3231.c:209:9:DS3231_SetDateTime	32	static
